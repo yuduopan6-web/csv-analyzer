@@ -1,5 +1,0 @@
-fastapi>=0.100
-uvicorn[standard]
-python-multipart
-pandas
-pillow
